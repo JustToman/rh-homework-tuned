@@ -70,3 +70,7 @@ You'll be free, hackers, you'll be free*
 That is true, hackers, that is true
 But they cannot help their neighbors;
 That's not good, hackers, that's not good*
+
+
+## Limitations
+This script isn't suitable for very large files, since it loads whole file into memory.
